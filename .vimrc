@@ -126,6 +126,5 @@ noremap <buffer> tp ?^sub.*:.*Test<cr>w"zye:!TEST_METHOD='<c-r>z' prove -v %<cr>
 autocmd FileType make setlocal noexpandtab
 autocmd FileType html setlocal shiftwidth=2 tabstop=2
 autocmd FileType ruby setlocal shiftwidth=2 tabstop=2 expandtab
-autocmd FileType c setlocal cindent
-
+autocmd FileType c setlocal shiftwidth=8 tabstop=8 noexpandtab cindent
 
