@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/44188/developer/trunk/aws/.vim/plugin/refactorings/general
+END
+renamelocalvariable.vim
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/44188/developer/trunk/aws/.vim/plugin/refactorings/general/renamelocalvariable.vim
+END
+addparameter.vim
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/44188/developer/trunk/aws/.vim/plugin/refactorings/general/addparameter.vim
+END
+postconditional.vim
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/44188/developer/trunk/aws/.vim/plugin/refactorings/general/postconditional.vim
+END
+extractmethod.vim
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/44188/developer/trunk/aws/.vim/plugin/refactorings/general/extractmethod.vim
+END
+rspec_extractlet.vim
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/44188/developer/trunk/aws/.vim/plugin/refactorings/general/rspec_extractlet.vim
+END
+extractvariable.vim
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/44188/developer/trunk/aws/.vim/plugin/refactorings/general/extractvariable.vim
+END
+renameinstancevariable.vim
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/44188/developer/trunk/aws/.vim/plugin/refactorings/general/renameinstancevariable.vim
+END
+extractconstant.vim
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/44188/developer/trunk/aws/.vim/plugin/refactorings/general/extractconstant.vim
+END
+inlinetemp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/44188/developer/trunk/aws/.vim/plugin/refactorings/general/inlinetemp.vim
+END
